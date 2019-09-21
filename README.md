@@ -1,4 +1,4 @@
-Web page based on: **Researcher**
+Web page based on **Researcher**
 
 ### License
 
