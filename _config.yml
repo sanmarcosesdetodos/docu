@@ -1,5 +1,5 @@
-title: San Marcos es de todos
-url: "https://ankitsultana.com"
+title: San Marcos es de Todos
+url: "https://sanmarcosesdetodos.github.io/docu/"
 baseurl: "/docu"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -15,10 +15,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+#nav:
+ #- name: "About"
+ #  link: "/researcher/"
+ #- name: "Resume"
+ #  link: "resume.pdf"
+ #- name: "Contact"
+ #  link: "contact"
