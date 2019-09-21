@@ -2,44 +2,27 @@
 layout: default
 ---
 
-## About Me
+¿Qué es una universidad? y ¿cuál es su lugar dentro de la sociedad? Quizá convenga hacerse estas preguntas para empezar a hablar de los problemas que tiene San Marcos, la universidad más antigua de América; sobre todo hoy cuando su predio corre el riesgo de ser mutilado, lo que representaría un gran perjuicio que va más allá de la reducción de su campus.
 
-<img class="profile-picture" src="sherlock.jpg">
+La universidad moderna tiene sus raíces en los gremios abocados al conocimiento que se formaron en las sociedades medievales europeas. Pero las universidades son fruto de las personas que las estructuran, por lo que muchas veces respondieron y responden a ideas que en lugar de buscar el bien común solo elitizan el conocimiento, y hacen de él un privilegio. 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+San Marcos, por ejemplo, fue por mucho tiempo una universidad “de pocos”, durante la colonia las rígidas estructuras sociales hicieron que solo una pequeñísima minoría accediera a ella, y por un largo periodo de la República sucedió lo mismo. La apertura de San Marcos se dio en 1918, cuando la Reforma de Córdoba difundió por todo el continente una corriente de cambios sin igual y muy particular sobre como debería funcionar una universidad. Un segundo momento de apertura se da a mediados del siglo XX, cuando Lima comenzó a albergar a miles de peruanos que buscaban dónde encontrar trabajo, salud y educación, aquello que solo se podía conseguir en las ciudades de la costa y, en particular, en la capital.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+San Marcos es hoy una universidad que ha construido su prestigio con el valioso aporte de muchos hombres y mujeres que son parte de nuestra historia como sociedad. Por lo tanto, es una obligación de la comunidad sanmarquina (estudiantes, docentes, graduados y trabajadores) mantener y acrecentar ese prestigio; pero esto debe hacerse no por el orgullo ni el rédito particular, sino por fines más nobles, sobre todo en un país tan desigual como el Perú.
 
-## Research Interest
+En la actualidad la mayoría de sociedades confían su desarrollo en la acumulación del dinero y el bienestar individual egoísta, que desprecia las buenas relaciones de convivencia entre personas y naturaleza. Y esta manera de dirigir la sociedad también influye en el rumbo de sus instituciones, como lo son las universidades. En muchos lugares la educación superior es un privilegio de aquellos que pueden pagarla. En el Perú, a pesar de ser una sociedad regida por la lógica del mercado, la educación pública es gratuita, y qué importante es esto; ya que ello permite que cualquier peruano o peruana pueda acceder a la educación superior. Así, los hijos de peruanos de bajos ingresos económicos pueden permitirse ir a una universidad de calidad, como es San Marcos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Por esas razones, San Marcos y toda universidad pública deben ser vistas como instituciones que pertenecen a la sociedad entera. Y San Marcos debe ser considerada como un **Patrimonio Cultural** del Perú, por su historia, su legado y su labor en nuestra sociedad; por ello, todos debemos protegerla. Sin embargo, muchas veces ha sido vulnerada. Si una universidad es un lugar donde todos hacemos que sea posible estudiar, debatir y compartir los conocimientos generados para ser una mejor sociedad, ¿cómo es que permitimos que se reduzca el campus de San Marcos?, o ¿qué la policía ingrese con tanquetas y arroje hoy bombas lacrimógenas a sus aulas? Pensemos un momento en ello, o ¿permitiríamos que Machu Picchu o Chan Chan corran igual suerte? Nuestra identidad y cultura no solo se construyen preservando lo que se conserva desde la antigüedad, sino también a través de aquellas instituciones que nos permiten atesorar, discutir, acrecentar y divulgar las ideas y conocimientos de todas las épocas para forjar un mejor lugar para todos.
 
-## Publications
+San Marcos es figurada como un espacio de caos y violencia, y eso es falso. San Marcos como todo el Perú fue víctima, durante las dos últimas décadas del siglo XX, de la insania asesina de Sendero Luminoso, así como del accionar del MRTA y de los excesos criminales de las fuerzas del Estado. Sin embargo, su historia es particular. Durante mucho tiempo el intenso debate de ideas, sobre todo de izquierda, hizo que la universidad sea vista como reducto comunista; pero como toda generalización, peca de inexacta, en San Marcos siempre hubo oposición a posturas violentas, como sucede actualmente. 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+No debemos permitir que San Marcos se asocie al accionar de grupos políticos seguidores de ideas totalitarias y verticales, porque ello sería negar el trabajo de hombres y mujeres como Julio C. Tello, Jorge Basadre, José María Arguedas, Blanca Varela, Ella Dumbar y otros tantos. Sería perjudicial para nuestra sociedad. La comunidad sanmarquina es mucho más que eso.
 
-## Typography
+Hoy, San Marcos vive una situación de mucho cuidado. La ciudad de Lima, informe y desordenada, sigue creciendo, el problema del tránsito trata de solucionarse, y eso está bien. Sin embargo, debe tenerse en cuenta la naturaleza del recinto universitario. La construcción del muro perimétrico, tal como lo plantea el Rector, resulta perjudicial para la universidad. Pero, además, el Rector ha optado por mal informar y ocultar los estudios técnicos que sustentarían este nuevo proyecto, faltando a la transparencia. Cuesta creer que otras posibilidades no sean posibles. He ahí las razones de los reclamos estudiantiles.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+La “decana de América”  requiere que la comunidad sanmarquina y la sociedad toda estén alertas para defenderla, a pesar de la indeferencia de muchos, como sucede con sus autoridades que no se pronuncian públicamente ante el hecho de que bombas lacrimógenas son arrojadas dentro del campus, vulnerando la autonomía. Indigna leer los desatinados comentarios de su rector, Orestes Cachay, quien considera a los estudiantes “aves de paso” que deben desentenderse de lo que sucede en su casa de estudios. En esta situación, donde se piensa reducir los terrenos de la universidad, corresponde preguntarle al señor rector si existe un plan de infraestructura para la universidad, no para hoy, sino para los siguientes 50 años. El terreno de la universidad no puede emplearse tan libremente, sin considerar el cuidado de áreas verdes y de los restos arqueológicos que alberga (se hecha de menos un museo de sitio y la puesta en valor de la huaca más importante de la cultura Lima que se encuentra dentro de los predios de la universidad), la uniformidad arquitectónica o la utilidad real de los edificios. Una universidad no solo es un lugar de aulas y oficinas, sino un espacio donde su comunidad se aboca al conocimiento, y que mejor manera si esa comunidad se desenvuelve en un espacio propicio y agradable para el estudio, porque para caos y desorden suficiente se tiene con el día a día en la ciudad.
 
-Here is a table
+Organicémonos, ese es el llamado. Debemos informarnos y divulgar lo que realmente es San Marcos, y estemos atentos a lo que suceda con nuestra querida universidad, atentos no solo a los intereses políticos y la miseria de todos aquellos que solo buscan llevar agua para su molino, o beneficiarse de un cargo administrativo o docente; todos ellos son las verdaderas “aves de paso”, no los que luchan por protegerla y se esfuerzan por engrandecerla al ser buenos profesionales y personas honestas. Miremos nuestro legado cuando los ánimos recaigan y demostremos cada vez que podamos porqué San Marcos es una gran universidad y porqué debemos defenderla.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
